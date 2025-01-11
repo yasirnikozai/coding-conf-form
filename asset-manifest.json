@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coding-conf-form/static/css/main.6b7227ef.css",
+    "main.js": "/coding-conf-form/static/js/main.370d1332.js",
+    "index.html": "/coding-conf-form/index.html",
+    "main.6b7227ef.css.map": "/coding-conf-form/static/css/main.6b7227ef.css.map",
+    "main.370d1332.js.map": "/coding-conf-form/static/js/main.370d1332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b7227ef.css",
+    "static/js/main.370d1332.js"
+  ]
+}
